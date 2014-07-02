@@ -8,6 +8,7 @@
 	border-bottom-right-radius:.3em;
 	border-bottom-left-radius:.3em;
 }
+
 #navbar ul li {  
 	display: inline; 
 	} 
@@ -17,18 +18,19 @@
 	padding: .2em .5em; 
 	color: #fff;
 	background-color: #546571; 
-	font-family:fantasy, sans-serif;
+	font-family: Open Sans,sans-serif;
 	font-size:1.2em;
-	border-radius:5em;
+	border-radius:.5em;
 	} 
  
 #navbar ul li a:hover { 
 	color: #fff; 
 	background-color: #687C8B; 
 	} 
+
 body{
 	color:#424242;
-	font-family:fantasy,sans-serif;
+	font-family:open sans,sans-serif;
 
 }
 #text div{
